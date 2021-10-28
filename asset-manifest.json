@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Hovuotsax12/static/css/main.6679c2ee.chunk.css",
-    "main.js": "/Hovuotsax12/static/js/main.7864629e.chunk.js",
-    "main.js.map": "/Hovuotsax12/static/js/main.7864629e.chunk.js.map",
-    "runtime-main.js": "/Hovuotsax12/static/js/runtime-main.e89c5708.js",
-    "runtime-main.js.map": "/Hovuotsax12/static/js/runtime-main.e89c5708.js.map",
-    "static/css/2.dde13ac0.chunk.css": "/Hovuotsax12/static/css/2.dde13ac0.chunk.css",
-    "static/js/2.4dad66e3.chunk.js": "/Hovuotsax12/static/js/2.4dad66e3.chunk.js",
-    "static/js/2.4dad66e3.chunk.js.map": "/Hovuotsax12/static/js/2.4dad66e3.chunk.js.map",
-    "index.html": "/Hovuotsax12/index.html",
-    "static/css/2.dde13ac0.chunk.css.map": "/Hovuotsax12/static/css/2.dde13ac0.chunk.css.map",
-    "static/css/main.6679c2ee.chunk.css.map": "/Hovuotsax12/static/css/main.6679c2ee.chunk.css.map",
-    "static/js/2.4dad66e3.chunk.js.LICENSE.txt": "/Hovuotsax12/static/js/2.4dad66e3.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/Hovuotsax12/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.67e95f05.jpg": "/Hovuotsax12/static/media/footer-bg.67e95f05.jpg",
-    "static/media/tmovie.67797e94.png": "/Hovuotsax12/static/media/tmovie.67797e94.png"
+    "main.css": "/movie-react/static/css/main.87bd661f.chunk.css",
+    "main.js": "/movie-react/static/js/main.7864629e.chunk.js",
+    "main.js.map": "/movie-react/static/js/main.7864629e.chunk.js.map",
+    "runtime-main.js": "/movie-react/static/js/runtime-main.cdc365ac.js",
+    "runtime-main.js.map": "/movie-react/static/js/runtime-main.cdc365ac.js.map",
+    "static/css/2.dde13ac0.chunk.css": "/movie-react/static/css/2.dde13ac0.chunk.css",
+    "static/js/2.4dad66e3.chunk.js": "/movie-react/static/js/2.4dad66e3.chunk.js",
+    "static/js/2.4dad66e3.chunk.js.map": "/movie-react/static/js/2.4dad66e3.chunk.js.map",
+    "index.html": "/movie-react/index.html",
+    "static/css/2.dde13ac0.chunk.css.map": "/movie-react/static/css/2.dde13ac0.chunk.css.map",
+    "static/css/main.87bd661f.chunk.css.map": "/movie-react/static/css/main.87bd661f.chunk.css.map",
+    "static/js/2.4dad66e3.chunk.js.LICENSE.txt": "/movie-react/static/js/2.4dad66e3.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/movie-react/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/movie-react/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/movie-react/static/media/tmovie.67797e94.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e89c5708.js",
+    "static/js/runtime-main.cdc365ac.js",
     "static/css/2.dde13ac0.chunk.css",
     "static/js/2.4dad66e3.chunk.js",
-    "static/css/main.6679c2ee.chunk.css",
+    "static/css/main.87bd661f.chunk.css",
     "static/js/main.7864629e.chunk.js"
   ]
 }
